@@ -1,0 +1,186 @@
+[
+    {
+        "text": "We’re excited to introduce our 2nd year group project – Musicia: A Music Event Management & Ticket Selling Platform tailored for Sri Lanka! � Developed using the PHP MVC architecture, Musicia was built to address the common challenges faced by music event organizers, performers, and service providers—such as scattered communication, low event visibility, and ticketing inefficiencies. Our platform brings all key stakeholders together, offering a streamlined, end-to-end solution for planning, promoting, managing, and analyzing music events. Through Musicia, we aim to build a vibrant, connected ecosystem for Sri Lanka’s music community!",
+        "engagement": 0,
+        "tech_stack": {
+            "front_end": ["HTML", "CSS", "JavaScript"],
+            "back_end": ["PHP", "MVC Architecture"]
+        },
+        "key_features": [
+            "Full event planning workflow",
+            "Online ticket sales with QR code generation and email delivery",
+            "Digital ticket downloads and in-platform notifications",
+            "Seamless collaboration through messaging system between organizers, performers & service providers",
+            "Real-time analytics dashboards",
+            "Comprehensive report generation for events, admins, and profit tracking"
+        ]
+    },
+    {
+        "text": "Introducing Foodies – Your Ultimate Online Food Ordering System!\n\nFoodies is a cutting-edge platform designed to revolutionize the way you order food online. Whether you're craving a quick snack or planning a feast, Foodies connects you with your favorite restaurants effortlessly.",
+        "tech_stack": {
+            "front_end": ["React", "Tailwind CSS"],
+            "back_end": ["Spring Boot"],
+            "additional": [
+                "React Redux Toolkit (State Management)",
+                "MySQL (Database)"
+            ]
+        },
+        "key_features": [
+            "Seamless Food Ordering: Explore menus, place orders, and enjoy your favorite meals in no time",
+            "Flexible Restaurant Management: Tailored tools for restaurants to manage menus, orders, and customer feedback",
+            "Efficient User Profiles: Personalized experiences for every user, whether you're a diner or a restaurant owner",
+            "Secure Payment System: Safe and reliable payment options for hassle-free transactions",
+            "Real-Time Order Tracking: Stay updated on the status of your order from preparation to delivery"
+        ]
+    },
+    {
+        "text": "Introducing EduTrack - A Learning Management System for Sri Lankan Schools!\n\nEduTrack revolutionizes classroom management with digital attendance, grade tracking, and parent-teacher communication all in one platform.",
+        "tech_stack": {
+        "front_end": ["React", "Material UI"],
+        "back_end": ["Node.js", "Express"],
+        "additional": ["MongoDB", "Firebase Authentication"]
+        },
+        "key_features": [
+            "Digital attendance system with facial recognition",
+            "Real-time gradebook for teachers",
+            "Parent portal with performance analytics",
+            "Assignment submission and grading system",
+            "School-wide announcement system"
+        ]
+    },
+    {
+        "text": "Presenting AgriGo - Digital Platform for Sri Lankan Farmers!\n\nConnecting farmers directly with buyers, providing weather alerts, crop advice, and market price information to empower Sri Lanka's agricultural community.",
+        "tech_stack": {
+        "front_end": ["Flutter"],
+        "back_end": ["Django"],
+        "additional": ["PostgreSQL", "Redis", "Twilio API"]
+        },
+        "key_features": [
+            "Real-time crop price monitoring",
+            "Weather prediction system",
+            "Direct farmer-to-buyer marketplace",
+            "Agricultural expert chat system",
+            "Multi-language support (Sinhala/Tamil)"
+        ]
+    },
+    {
+        "text": "Meet HealthPlus - Telemedicine Platform for Sri Lanka!\n\nBridging patients with doctors through video consultations, e-prescriptions, and medicine delivery services across the island.",
+        "tech_stack": {
+        "front_end": ["Vue.js", "Vuetify"],
+        "back_end": ["Laravel"],
+        "additional": ["WebRTC", "Stripe API", "AWS S3"]
+        },
+        "key_features": [
+            "Secure video consultations",
+            "Digital prescription system",
+            "Medicine delivery integration",
+            "Health record management",
+            "Doctor rating and review system"
+        ]
+    },
+    {
+        "text": "Introducing Tourista - Sri Lanka's Smart Travel Companion!\n\nAn all-in-one tourism app offering personalized itineraries, local guides, and real-time translation for foreign visitors.",
+        "tech_stack": {
+        "front_end": ["React Native"],
+        "back_end": ["Spring Boot"],
+        "additional": ["Google Maps API", "Google Translate API", "Firebase"]
+        },
+        "key_features": [
+            "AI-powered itinerary generator",
+            "Augmented reality historical site guides",
+            "Emergency assistance localization",
+            "Local experience marketplace",
+            "Offline maps and guides"
+        ]
+    },
+    {
+        "text": "Presenting EcoTrack - Waste Management Solution for Smart Cities!\n\nOptimizing garbage collection routes using IoT sensors and analytics to make Sri Lankan cities cleaner and greener.",
+        "tech_stack": {
+        "front_end": ["Angular"],
+        "back_end": ["Python", "Flask"],
+        "additional": ["TensorFlow", "MQTT", "Arduino"]
+        },
+        "key_features": [
+            "Smart bin monitoring system",
+            "Dynamic collection route optimization",
+            "Citizen reporting portal",
+            "Recycling incentive program",
+            "Municipal dashboard with analytics"
+        ]
+    },
+    {
+        "text": "Meet JobLink - Career Platform for Sri Lankan Professionals!\n\nConnecting job seekers with employers through AI-powered matching, skill assessments, and virtual career fairs.",
+        "tech_stack": {
+        "front_end": ["Svelte"],
+        "back_end": ["Ruby on Rails"],
+        "additional": ["Python (ML)", "LinkedIn API", "WebSockets"]
+        },
+        "key_features": [
+            "AI-driven job matching",
+            "Automated resume builder",
+            "Video interview platform",
+            "Skill assessment tests",
+            "Localized job market insights"
+        ]
+    },
+    {
+        "text": "Introducing HandyGo - On-Demand Service Marketplace!\n\nConnecting customers with skilled professionals for everything from plumbing to IT support across Sri Lanka.",
+        "tech_stack": {
+        "front_end": ["Ionic", "Capacitor"],
+        "back_end": ["NestJS"],
+        "additional": ["GraphQL", "Google Pay API", "Twilio"]
+        },
+        "key_features": [
+            "Real-time service tracking",
+            "In-app messaging and calls",
+            "Verified professional network",
+            "Dynamic pricing system",
+            "Multi-payment options"
+        ]
+    },
+    {
+        "text": "Presenting SmartBus - Public Transport Revolution!\n\nReal-time bus tracking, digital ticketing, and crowd prediction for Sri Lanka's public transportation system.",
+        "tech_stack": {
+        "front_end": ["Flutter"],
+        "back_end": ["Go"],
+        "additional": ["GPS Tracking", "NFC", "Redis"]
+        },
+        "key_features": [
+            "Live bus location maps",
+            "Mobile ticketing with QR codes",
+            "Crowd prediction alerts",
+            "Route optimization suggestions",
+            "Accessibility features"
+        ]
+    },
+    {
+        "text": "Meet LocalMart - Digital Platform for Sri Lankan Small Businesses!\n\nHelping neighborhood shops go digital with inventory management, online ordering, and delivery coordination.",
+        "tech_stack": {
+        "front_end": ["React", "Chakra UI"],
+        "back_end": ["PHP", "Laravel"],
+        "additional": ["MySQL", "Pusher", "PayHere API"]
+        },
+        "key_features": [
+            "Digital storefront creator",
+            "Inventory management system",
+            "Delivery route optimization",
+            "Loyalty program integration",
+            "Multi-store analytics"
+        ]
+    },
+    {
+        "text": "Introducing PetCare - Veterinary Services Platform!\n\nConnecting pet owners with vets for online consultations, medication delivery, and emergency services island-wide.",
+        "tech_stack": {
+        "front_end": ["Swift", "Kotlin"],
+        "back_end": ["Firebase"],
+        "additional": ["Stripe", "Google Maps", "Twilio"]
+        },
+        "key_features": [
+            "Emergency vet locator",
+            "Vaccination reminders",
+            "Pet health records",
+            "Medication delivery",
+            "24/7 vet chat support"
+        ]
+    }
+]
