@@ -12,10 +12,6 @@ def process_posts(raw_file_path, process_file_path="data/processed_posts.json"):
         metadata = extract_metadata(post['text'])
         post_with_metadata = post | metadata
         details_posts.append(post_with_metadata)
-    
-    langs = get_all_languages(details_posts)
-    for lang in langs:
-        print(lang)
 
 
 def get_all_languages(posts):
