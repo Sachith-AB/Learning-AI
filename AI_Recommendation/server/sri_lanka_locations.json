@@ -1,0 +1,1702 @@
+[
+    {
+        "id": "1",
+        "name": "Sigiriya Rock Fortress",
+        "description": "Ancient rock fortress with frescoes and panoramic views.",
+        "tags": [
+            "historical",
+            "unesco",
+            "hiking"
+        ],
+        "location": "Matale",
+        "popularity": 9,
+        "best_for": [
+            "solo",
+            "couples",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Mirissa Beach",
+        "description": "Scenic beach famous for whale watching and surfing.",
+        "tags": [
+            "beach",
+            "whales",
+            "sunset"
+        ],
+        "location": "Southern Province",
+        "popularity": 8,
+        "best_for": [
+            "families",
+            "couples",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Ella",
+        "description": "Mountain town with waterfalls, tea plantations, and hiking trails.",
+        "tags": [
+            "mountains",
+            "tea",
+            "waterfalls"
+        ],
+        "location": "Badulla",
+        "popularity": 7,
+        "best_for": [
+            "solo",
+            "hikers",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Galle Fort",
+        "description": "Colonial-era fort with cobblestone streets and boutique shops.",
+        "tags": [
+            "historical",
+            "shopping",
+            "architecture"
+        ],
+        "location": "Galle",
+        "popularity": 8,
+        "best_for": [
+            "couples",
+            "families",
+            "photographers"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Yala National Park",
+        "description": "Wildlife sanctuary with leopards, elephants, and safari tours.",
+        "tags": [
+            "wildlife",
+            "safari",
+            "nature"
+        ],
+        "location": "Hambantota",
+        "popularity": 9,
+        "best_for": [
+            "families",
+            "adventure",
+            "wildlife-enthusiasts"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Colombo Fort",
+        "description": "A beautiful sanctuary located in Trincomalee.",
+        "tags": [
+            "safari",
+            "unesco",
+            "temple"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "history-lovers",
+            "photographers",
+            "hikers"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Kurunegala Museum",
+        "description": "A beautiful fort located in Polonnaruwa.",
+        "tags": [
+            "hiking",
+            "unesco",
+            "nature"
+        ],
+        "location": "Kandy",
+        "popularity": 10,
+        "best_for": [
+            "couples",
+            "families",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Ratnapura Museum",
+        "description": "A beautiful lake located in Batticaloa.",
+        "tags": [
+            "temple",
+            "sunset",
+            "shopping"
+        ],
+        "location": "Colombo",
+        "popularity": 8,
+        "best_for": [
+            "couples",
+            "photographers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Ratnapura Lake",
+        "description": "A beautiful park located in Nuwara Eliya.",
+        "tags": [
+            "beach",
+            "shopping",
+            "sunset"
+        ],
+        "location": "Kandy",
+        "popularity": 8,
+        "best_for": [
+            "adventure",
+            "hikers",
+            "solo"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Colombo Forest",
+        "description": "A beautiful park located in Trincomalee.",
+        "tags": [
+            "tea",
+            "beach",
+            "shopping"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 10,
+        "best_for": [
+            "backpackers",
+            "couples",
+            "adventure"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Kandy Fort",
+        "description": "A beautiful lake located in Trincomalee.",
+        "tags": [
+            "tea",
+            "nature",
+            "whales"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 9,
+        "best_for": [
+            "nature-lovers",
+            "hikers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Polonnaruwa Beach",
+        "description": "A beautiful forest located in Kandy.",
+        "tags": [
+            "unesco",
+            "whales",
+            "historical"
+        ],
+        "location": "Jaffna",
+        "popularity": 8,
+        "best_for": [
+            "nature-lovers",
+            "adventure",
+            "families"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Kurunegala Forest",
+        "description": "A beautiful mountain located in Polonnaruwa.",
+        "tags": [
+            "shopping",
+            "hiking",
+            "sunset"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "history-lovers",
+            "hikers",
+            "couples"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Jaffna Falls",
+        "description": "A beautiful park located in Polonnaruwa.",
+        "tags": [
+            "safari",
+            "temple",
+            "sunset"
+        ],
+        "location": "Batticaloa",
+        "popularity": 7,
+        "best_for": [
+            "backpackers",
+            "history-lovers",
+            "families"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Jaffna Mountain",
+        "description": "A beautiful museum located in Nuwara Eliya.",
+        "tags": [
+            "historical",
+            "whales",
+            "beach"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 9,
+        "best_for": [
+            "hikers",
+            "couples",
+            "solo"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Nuwara Eliya Park",
+        "description": "A beautiful temple located in Ratnapura.",
+        "tags": [
+            "hiking",
+            "tea",
+            "sunset"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "nature-lovers",
+            "adventure",
+            "hikers"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Nuwara Eliya Museum",
+        "description": "A beautiful lake located in Nuwara Eliya.",
+        "tags": [
+            "wildlife",
+            "temple",
+            "nature"
+        ],
+        "location": "Batticaloa",
+        "popularity": 6,
+        "best_for": [
+            "hikers",
+            "couples",
+            "solo"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Nuwara Eliya Lake",
+        "description": "A beautiful sanctuary located in Jaffna.",
+        "tags": [
+            "shopping",
+            "whales",
+            "sunset"
+        ],
+        "location": "Jaffna",
+        "popularity": 9,
+        "best_for": [
+            "hikers",
+            "solo",
+            "photographers"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Colombo Temple",
+        "description": "A beautiful lake located in Kurunegala.",
+        "tags": [
+            "sunset",
+            "shopping",
+            "beach"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 9,
+        "best_for": [
+            "adventure",
+            "photographers",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Jaffna Temple",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "unesco",
+            "nature",
+            "shopping"
+        ],
+        "location": "Jaffna",
+        "popularity": 6,
+        "best_for": [
+            "families",
+            "hikers",
+            "couples"
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Nuwara Eliya Falls",
+        "description": "A beautiful temple located in Polonnaruwa.",
+        "tags": [
+            "unesco",
+            "sunset",
+            "historical"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 7,
+        "best_for": [
+            "nature-lovers",
+            "adventure",
+            "photographers"
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Ratnapura Fort",
+        "description": "A beautiful sanctuary located in Anuradhapura.",
+        "tags": [
+            "historical",
+            "shopping",
+            "wildlife"
+        ],
+        "location": "Trincomalee",
+        "popularity": 9,
+        "best_for": [
+            "photographers",
+            "solo",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Polonnaruwa Beach",
+        "description": "A beautiful forest located in Polonnaruwa.",
+        "tags": [
+            "beach",
+            "temple",
+            "shopping"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 7,
+        "best_for": [
+            "hikers",
+            "solo",
+            "adventure"
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Nuwara Eliya Temple",
+        "description": "A beautiful lake located in Jaffna.",
+        "tags": [
+            "temple",
+            "wildlife",
+            "whales"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 9,
+        "best_for": [
+            "couples",
+            "families",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Ratnapura Temple",
+        "description": "A beautiful temple located in Batticaloa.",
+        "tags": [
+            "nature",
+            "tea",
+            "safari"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 9,
+        "best_for": [
+            "hikers",
+            "nature-lovers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Jaffna Museum",
+        "description": "A beautiful temple located in Kandy.",
+        "tags": [
+            "whales",
+            "hiking",
+            "shopping"
+        ],
+        "location": "Kurunegala",
+        "popularity": 7,
+        "best_for": [
+            "hikers",
+            "history-lovers",
+            "solo"
+        ]
+    },
+    {
+        "id": "27",
+        "name": "Colombo Park",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "unesco",
+            "tea",
+            "temple"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 9,
+        "best_for": [
+            "hikers",
+            "couples",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "28",
+        "name": "Kurunegala Sanctuary",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "nature",
+            "sunset",
+            "whales"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 9,
+        "best_for": [
+            "adventure",
+            "solo",
+            "hikers"
+        ]
+    },
+    {
+        "id": "29",
+        "name": "Batticaloa Lake",
+        "description": "A beautiful fort located in Kandy.",
+        "tags": [
+            "whales",
+            "sunset",
+            "hiking"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 7,
+        "best_for": [
+            "couples",
+            "hikers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Anuradhapura Park",
+        "description": "A beautiful museum located in Trincomalee.",
+        "tags": [
+            "hiking",
+            "tea",
+            "sunset"
+        ],
+        "location": "Batticaloa",
+        "popularity": 8,
+        "best_for": [
+            "backpackers",
+            "couples",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "31",
+        "name": "Kurunegala Falls",
+        "description": "A beautiful museum located in Nuwara Eliya.",
+        "tags": [
+            "whales",
+            "historical",
+            "sunset"
+        ],
+        "location": "Jaffna",
+        "popularity": 8,
+        "best_for": [
+            "history-lovers",
+            "adventure",
+            "hikers"
+        ]
+    },
+    {
+        "id": "32",
+        "name": "Jaffna Temple",
+        "description": "A beautiful temple located in Batticaloa.",
+        "tags": [
+            "historical",
+            "beach",
+            "tea"
+        ],
+        "location": "Ratnapura",
+        "popularity": 10,
+        "best_for": [
+            "couples",
+            "history-lovers",
+            "families"
+        ]
+    },
+    {
+        "id": "33",
+        "name": "Polonnaruwa Falls",
+        "description": "A beautiful sanctuary located in Batticaloa.",
+        "tags": [
+            "safari",
+            "hiking",
+            "unesco"
+        ],
+        "location": "Batticaloa",
+        "popularity": 10,
+        "best_for": [
+            "backpackers",
+            "solo",
+            "families"
+        ]
+    },
+    {
+        "id": "34",
+        "name": "Jaffna Forest",
+        "description": "A beautiful mountain located in Polonnaruwa.",
+        "tags": [
+            "nature",
+            "shopping",
+            "sunset"
+        ],
+        "location": "Colombo",
+        "popularity": 7,
+        "best_for": [
+            "solo",
+            "history-lovers",
+            "photographers"
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Kandy Fort",
+        "description": "A beautiful lake located in Ratnapura.",
+        "tags": [
+            "nature",
+            "tea",
+            "unesco"
+        ],
+        "location": "Jaffna",
+        "popularity": 9,
+        "best_for": [
+            "history-lovers",
+            "adventure",
+            "families"
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Kurunegala Sanctuary",
+        "description": "A beautiful lake located in Polonnaruwa.",
+        "tags": [
+            "tea",
+            "hiking",
+            "beach"
+        ],
+        "location": "Kurunegala",
+        "popularity": 6,
+        "best_for": [
+            "backpackers",
+            "nature-lovers",
+            "couples"
+        ]
+    },
+    {
+        "id": "37",
+        "name": "Trincomalee Falls",
+        "description": "A beautiful temple located in Nuwara Eliya.",
+        "tags": [
+            "historical",
+            "unesco",
+            "beach"
+        ],
+        "location": "Ratnapura",
+        "popularity": 10,
+        "best_for": [
+            "photographers",
+            "couples",
+            "solo"
+        ]
+    },
+    {
+        "id": "38",
+        "name": "Jaffna Sanctuary",
+        "description": "A beautiful sanctuary located in Trincomalee.",
+        "tags": [
+            "unesco",
+            "historical",
+            "nature"
+        ],
+        "location": "Ratnapura",
+        "popularity": 8,
+        "best_for": [
+            "backpackers",
+            "nature-lovers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Kandy Falls",
+        "description": "A beautiful beach located in Colombo.",
+        "tags": [
+            "nature",
+            "safari",
+            "sunset"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 9,
+        "best_for": [
+            "adventure",
+            "solo",
+            "hikers"
+        ]
+    },
+    {
+        "id": "40",
+        "name": "Ratnapura Temple",
+        "description": "A beautiful lake located in Batticaloa.",
+        "tags": [
+            "unesco",
+            "shopping",
+            "nature"
+        ],
+        "location": "Trincomalee",
+        "popularity": 6,
+        "best_for": [
+            "solo",
+            "families",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Anuradhapura Sanctuary",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "wildlife",
+            "tea",
+            "unesco"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 6,
+        "best_for": [
+            "backpackers",
+            "nature-lovers",
+            "solo"
+        ]
+    },
+    {
+        "id": "42",
+        "name": "Kandy Forest",
+        "description": "A beautiful park located in Nuwara Eliya.",
+        "tags": [
+            "nature",
+            "whales",
+            "tea"
+        ],
+        "location": "Colombo",
+        "popularity": 9,
+        "best_for": [
+            "photographers",
+            "couples",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "43",
+        "name": "Kandy Temple",
+        "description": "A beautiful forest located in Trincomalee.",
+        "tags": [
+            "beach",
+            "whales",
+            "hiking"
+        ],
+        "location": "Trincomalee",
+        "popularity": 8,
+        "best_for": [
+            "hikers",
+            "backpackers",
+            "photographers"
+        ]
+    },
+    {
+        "id": "44",
+        "name": "Anuradhapura Fort",
+        "description": "A beautiful temple located in Kurunegala.",
+        "tags": [
+            "wildlife",
+            "historical",
+            "tea"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 9,
+        "best_for": [
+            "hikers",
+            "nature-lovers",
+            "couples"
+        ]
+    },
+    {
+        "id": "45",
+        "name": "Jaffna Park",
+        "description": "A beautiful temple located in Colombo.",
+        "tags": [
+            "wildlife",
+            "shopping",
+            "beach"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 6,
+        "best_for": [
+            "solo",
+            "photographers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "46",
+        "name": "Ratnapura Beach",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "sunset",
+            "unesco",
+            "hiking"
+        ],
+        "location": "Ratnapura",
+        "popularity": 6,
+        "best_for": [
+            "couples",
+            "adventure",
+            "photographers"
+        ]
+    },
+    {
+        "id": "47",
+        "name": "Trincomalee Lake",
+        "description": "A beautiful park located in Trincomalee.",
+        "tags": [
+            "nature",
+            "tea",
+            "historical"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 8,
+        "best_for": [
+            "families",
+            "solo",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "48",
+        "name": "Polonnaruwa Forest",
+        "description": "A beautiful falls located in Trincomalee.",
+        "tags": [
+            "shopping",
+            "beach",
+            "historical"
+        ],
+        "location": "Trincomalee",
+        "popularity": 9,
+        "best_for": [
+            "nature-lovers",
+            "couples",
+            "families"
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Polonnaruwa Mountain",
+        "description": "A beautiful temple located in Kandy.",
+        "tags": [
+            "hiking",
+            "tea",
+            "whales"
+        ],
+        "location": "Kandy",
+        "popularity": 6,
+        "best_for": [
+            "history-lovers",
+            "photographers",
+            "solo"
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Kandy Fort",
+        "description": "A beautiful park located in Trincomalee.",
+        "tags": [
+            "hiking",
+            "whales",
+            "temple"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 10,
+        "best_for": [
+            "photographers",
+            "adventure",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "51",
+        "name": "Anuradhapura Museum",
+        "description": "A beautiful beach located in Kandy.",
+        "tags": [
+            "hiking",
+            "sunset",
+            "unesco"
+        ],
+        "location": "Trincomalee",
+        "popularity": 10,
+        "best_for": [
+            "adventure",
+            "families",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "52",
+        "name": "Jaffna Forest",
+        "description": "A beautiful falls located in Jaffna.",
+        "tags": [
+            "shopping",
+            "nature",
+            "safari"
+        ],
+        "location": "Kandy",
+        "popularity": 6,
+        "best_for": [
+            "couples",
+            "adventure",
+            "solo"
+        ]
+    },
+    {
+        "id": "53",
+        "name": "Anuradhapura Fort",
+        "description": "A beautiful forest located in Trincomalee.",
+        "tags": [
+            "whales",
+            "temple",
+            "nature"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 9,
+        "best_for": [
+            "photographers",
+            "nature-lovers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "54",
+        "name": "Kandy Sanctuary",
+        "description": "A beautiful forest located in Kandy.",
+        "tags": [
+            "beach",
+            "historical",
+            "nature"
+        ],
+        "location": "Ratnapura",
+        "popularity": 9,
+        "best_for": [
+            "nature-lovers",
+            "families",
+            "adventure"
+        ]
+    },
+    {
+        "id": "55",
+        "name": "Batticaloa Beach",
+        "description": "A beautiful fort located in Jaffna.",
+        "tags": [
+            "nature",
+            "wildlife",
+            "sunset"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 6,
+        "best_for": [
+            "adventure",
+            "solo",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "56",
+        "name": "Batticaloa Beach",
+        "description": "A beautiful mountain located in Anuradhapura.",
+        "tags": [
+            "wildlife",
+            "tea",
+            "temple"
+        ],
+        "location": "Ratnapura",
+        "popularity": 8,
+        "best_for": [
+            "solo",
+            "photographers",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "57",
+        "name": "Batticaloa Park",
+        "description": "A beautiful falls located in Colombo.",
+        "tags": [
+            "unesco",
+            "safari",
+            "historical"
+        ],
+        "location": "Batticaloa",
+        "popularity": 10,
+        "best_for": [
+            "backpackers",
+            "photographers",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "58",
+        "name": "Trincomalee Temple",
+        "description": "A beautiful fort located in Batticaloa.",
+        "tags": [
+            "historical",
+            "unesco",
+            "sunset"
+        ],
+        "location": "Kurunegala",
+        "popularity": 9,
+        "best_for": [
+            "backpackers",
+            "adventure",
+            "solo"
+        ]
+    },
+    {
+        "id": "59",
+        "name": "Kurunegala Temple",
+        "description": "A beautiful beach located in Batticaloa.",
+        "tags": [
+            "beach",
+            "unesco",
+            "nature"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 9,
+        "best_for": [
+            "photographers",
+            "hikers",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "60",
+        "name": "Colombo Temple",
+        "description": "A beautiful forest located in Kurunegala.",
+        "tags": [
+            "nature",
+            "beach",
+            "tea"
+        ],
+        "location": "Batticaloa",
+        "popularity": 10,
+        "best_for": [
+            "photographers",
+            "hikers",
+            "couples"
+        ]
+    },
+    {
+        "id": "61",
+        "name": "Jaffna Park",
+        "description": "A beautiful temple located in Jaffna.",
+        "tags": [
+            "nature",
+            "wildlife",
+            "tea"
+        ],
+        "location": "Jaffna",
+        "popularity": 10,
+        "best_for": [
+            "hikers",
+            "solo",
+            "families"
+        ]
+    },
+    {
+        "id": "62",
+        "name": "Batticaloa Temple",
+        "description": "A beautiful lake located in Nuwara Eliya.",
+        "tags": [
+            "wildlife",
+            "temple",
+            "safari"
+        ],
+        "location": "Kurunegala",
+        "popularity": 8,
+        "best_for": [
+            "adventure",
+            "couples",
+            "solo"
+        ]
+    },
+    {
+        "id": "63",
+        "name": "Colombo Park",
+        "description": "A beautiful forest located in Trincomalee.",
+        "tags": [
+            "shopping",
+            "sunset",
+            "tea"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 6,
+        "best_for": [
+            "photographers",
+            "couples",
+            "adventure"
+        ]
+    },
+    {
+        "id": "64",
+        "name": "Jaffna Sanctuary",
+        "description": "A beautiful park located in Anuradhapura.",
+        "tags": [
+            "wildlife",
+            "hiking",
+            "shopping"
+        ],
+        "location": "Trincomalee",
+        "popularity": 7,
+        "best_for": [
+            "history-lovers",
+            "families",
+            "adventure"
+        ]
+    },
+    {
+        "id": "65",
+        "name": "Batticaloa Lake",
+        "description": "A beautiful falls located in Batticaloa.",
+        "tags": [
+            "whales",
+            "shopping",
+            "temple"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "families",
+            "backpackers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "66",
+        "name": "Trincomalee Temple",
+        "description": "A beautiful beach located in Ratnapura.",
+        "tags": [
+            "historical",
+            "safari",
+            "whales"
+        ],
+        "location": "Ratnapura",
+        "popularity": 10,
+        "best_for": [
+            "history-lovers",
+            "adventure",
+            "photographers"
+        ]
+    },
+    {
+        "id": "67",
+        "name": "Nuwara Eliya Sanctuary",
+        "description": "A beautiful falls located in Anuradhapura.",
+        "tags": [
+            "safari",
+            "whales",
+            "hiking"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 6,
+        "best_for": [
+            "history-lovers",
+            "adventure",
+            "solo"
+        ]
+    },
+    {
+        "id": "68",
+        "name": "Kandy Lake",
+        "description": "A beautiful temple located in Polonnaruwa.",
+        "tags": [
+            "wildlife",
+            "unesco",
+            "safari"
+        ],
+        "location": "Batticaloa",
+        "popularity": 6,
+        "best_for": [
+            "history-lovers",
+            "nature-lovers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "69",
+        "name": "Polonnaruwa Temple",
+        "description": "A beautiful fort located in Jaffna.",
+        "tags": [
+            "tea",
+            "unesco",
+            "temple"
+        ],
+        "location": "Ratnapura",
+        "popularity": 9,
+        "best_for": [
+            "nature-lovers",
+            "families",
+            "hikers"
+        ]
+    },
+    {
+        "id": "70",
+        "name": "Jaffna Temple",
+        "description": "A beautiful temple located in Jaffna.",
+        "tags": [
+            "historical",
+            "wildlife",
+            "shopping"
+        ],
+        "location": "Kurunegala",
+        "popularity": 10,
+        "best_for": [
+            "history-lovers",
+            "backpackers",
+            "hikers"
+        ]
+    },
+    {
+        "id": "71",
+        "name": "Polonnaruwa Sanctuary",
+        "description": "A beautiful beach located in Polonnaruwa.",
+        "tags": [
+            "temple",
+            "whales",
+            "tea"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 7,
+        "best_for": [
+            "nature-lovers",
+            "couples",
+            "adventure"
+        ]
+    },
+    {
+        "id": "72",
+        "name": "Kurunegala Fort",
+        "description": "A beautiful forest located in Kandy.",
+        "tags": [
+            "temple",
+            "shopping",
+            "beach"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "nature-lovers",
+            "photographers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "73",
+        "name": "Jaffna Temple",
+        "description": "A beautiful beach located in Trincomalee.",
+        "tags": [
+            "temple",
+            "whales",
+            "historical"
+        ],
+        "location": "Kurunegala",
+        "popularity": 10,
+        "best_for": [
+            "photographers",
+            "hikers",
+            "couples"
+        ]
+    },
+    {
+        "id": "74",
+        "name": "Jaffna Mountain",
+        "description": "A beautiful museum located in Anuradhapura.",
+        "tags": [
+            "hiking",
+            "temple",
+            "wildlife"
+        ],
+        "location": "Jaffna",
+        "popularity": 9,
+        "best_for": [
+            "photographers",
+            "families",
+            "solo"
+        ]
+    },
+    {
+        "id": "75",
+        "name": "Kurunegala Fort",
+        "description": "A beautiful forest located in Trincomalee.",
+        "tags": [
+            "shopping",
+            "tea",
+            "wildlife"
+        ],
+        "location": "Batticaloa",
+        "popularity": 8,
+        "best_for": [
+            "nature-lovers",
+            "families",
+            "solo"
+        ]
+    },
+    {
+        "id": "76",
+        "name": "Batticaloa Beach",
+        "description": "A beautiful temple located in Polonnaruwa.",
+        "tags": [
+            "whales",
+            "sunset",
+            "safari"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 10,
+        "best_for": [
+            "solo",
+            "couples",
+            "hikers"
+        ]
+    },
+    {
+        "id": "77",
+        "name": "Ratnapura Beach",
+        "description": "A beautiful forest located in Colombo.",
+        "tags": [
+            "historical",
+            "tea",
+            "nature"
+        ],
+        "location": "Trincomalee",
+        "popularity": 9,
+        "best_for": [
+            "families",
+            "history-lovers",
+            "photographers"
+        ]
+    },
+    {
+        "id": "78",
+        "name": "Polonnaruwa Lake",
+        "description": "A beautiful temple located in Polonnaruwa.",
+        "tags": [
+            "shopping",
+            "beach",
+            "wildlife"
+        ],
+        "location": "Kurunegala",
+        "popularity": 6,
+        "best_for": [
+            "solo",
+            "couples",
+            "adventure"
+        ]
+    },
+    {
+        "id": "79",
+        "name": "Anuradhapura Fort",
+        "description": "A beautiful lake located in Ratnapura.",
+        "tags": [
+            "beach",
+            "unesco",
+            "wildlife"
+        ],
+        "location": "Colombo",
+        "popularity": 6,
+        "best_for": [
+            "families",
+            "backpackers",
+            "nature-lovers"
+        ]
+    },
+    {
+        "id": "80",
+        "name": "Kandy Sanctuary",
+        "description": "A beautiful falls located in Nuwara Eliya.",
+        "tags": [
+            "whales",
+            "nature",
+            "hiking"
+        ],
+        "location": "Batticaloa",
+        "popularity": 7,
+        "best_for": [
+            "photographers",
+            "solo",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "81",
+        "name": "Anuradhapura Fort",
+        "description": "A beautiful lake located in Polonnaruwa.",
+        "tags": [
+            "temple",
+            "nature",
+            "whales"
+        ],
+        "location": "Batticaloa",
+        "popularity": 7,
+        "best_for": [
+            "adventure",
+            "photographers",
+            "solo"
+        ]
+    },
+    {
+        "id": "82",
+        "name": "Polonnaruwa Falls",
+        "description": "A beautiful forest located in Polonnaruwa.",
+        "tags": [
+            "sunset",
+            "unesco",
+            "historical"
+        ],
+        "location": "Batticaloa",
+        "popularity": 7,
+        "best_for": [
+            "nature-lovers",
+            "history-lovers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "83",
+        "name": "Kurunegala Temple",
+        "description": "A beautiful beach located in Anuradhapura.",
+        "tags": [
+            "unesco",
+            "sunset",
+            "nature"
+        ],
+        "location": "Jaffna",
+        "popularity": 6,
+        "best_for": [
+            "solo",
+            "backpackers",
+            "photographers"
+        ]
+    },
+    {
+        "id": "84",
+        "name": "Jaffna Beach",
+        "description": "A beautiful forest located in Polonnaruwa.",
+        "tags": [
+            "whales",
+            "shopping",
+            "beach"
+        ],
+        "location": "Ratnapura",
+        "popularity": 9,
+        "best_for": [
+            "families",
+            "solo",
+            "adventure"
+        ]
+    },
+    {
+        "id": "85",
+        "name": "Polonnaruwa Lake",
+        "description": "A beautiful mountain located in Batticaloa.",
+        "tags": [
+            "historical",
+            "shopping",
+            "sunset"
+        ],
+        "location": "Jaffna",
+        "popularity": 7,
+        "best_for": [
+            "couples",
+            "history-lovers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "86",
+        "name": "Jaffna Mountain",
+        "description": "A beautiful lake located in Trincomalee.",
+        "tags": [
+            "hiking",
+            "whales",
+            "unesco"
+        ],
+        "location": "Jaffna",
+        "popularity": 9,
+        "best_for": [
+            "solo",
+            "couples",
+            "photographers"
+        ]
+    },
+    {
+        "id": "87",
+        "name": "Polonnaruwa Museum",
+        "description": "A beautiful temple located in Trincomalee.",
+        "tags": [
+            "unesco",
+            "wildlife",
+            "historical"
+        ],
+        "location": "Colombo",
+        "popularity": 7,
+        "best_for": [
+            "solo",
+            "hikers",
+            "families"
+        ]
+    },
+    {
+        "id": "88",
+        "name": "Anuradhapura Fort",
+        "description": "A beautiful park located in Nuwara Eliya.",
+        "tags": [
+            "sunset",
+            "safari",
+            "hiking"
+        ],
+        "location": "Kandy",
+        "popularity": 6,
+        "best_for": [
+            "history-lovers",
+            "backpackers",
+            "solo"
+        ]
+    },
+    {
+        "id": "89",
+        "name": "Trincomalee Park",
+        "description": "A beautiful sanctuary located in Trincomalee.",
+        "tags": [
+            "tea",
+            "safari",
+            "unesco"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 7,
+        "best_for": [
+            "photographers",
+            "nature-lovers",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "90",
+        "name": "Trincomalee Park",
+        "description": "A beautiful park located in Anuradhapura.",
+        "tags": [
+            "safari",
+            "wildlife",
+            "temple"
+        ],
+        "location": "Batticaloa",
+        "popularity": 10,
+        "best_for": [
+            "adventure",
+            "couples",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "91",
+        "name": "Nuwara Eliya Lake",
+        "description": "A beautiful park located in Jaffna.",
+        "tags": [
+            "beach",
+            "shopping",
+            "nature"
+        ],
+        "location": "Batticaloa",
+        "popularity": 9,
+        "best_for": [
+            "solo",
+            "hikers",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "92",
+        "name": "Nuwara Eliya Lake",
+        "description": "A beautiful fort located in Batticaloa.",
+        "tags": [
+            "nature",
+            "historical",
+            "shopping"
+        ],
+        "location": "Nuwara Eliya",
+        "popularity": 10,
+        "best_for": [
+            "couples",
+            "backpackers",
+            "hikers"
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Kandy Beach",
+        "description": "A beautiful lake located in Jaffna.",
+        "tags": [
+            "safari",
+            "whales",
+            "beach"
+        ],
+        "location": "Polonnaruwa",
+        "popularity": 7,
+        "best_for": [
+            "adventure",
+            "families",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "94",
+        "name": "Anuradhapura Lake",
+        "description": "A beautiful fort located in Kandy.",
+        "tags": [
+            "historical",
+            "nature",
+            "shopping"
+        ],
+        "location": "Anuradhapura",
+        "popularity": 6,
+        "best_for": [
+            "photographers",
+            "backpackers",
+            "couples"
+        ]
+    },
+    {
+        "id": "95",
+        "name": "Trincomalee Beach",
+        "description": "A beautiful park located in Nuwara Eliya.",
+        "tags": [
+            "hiking",
+            "tea",
+            "historical"
+        ],
+        "location": "Jaffna",
+        "popularity": 6,
+        "best_for": [
+            "adventure",
+            "nature-lovers",
+            "solo"
+        ]
+    },
+    {
+        "id": "96",
+        "name": "Ratnapura Beach",
+        "description": "A beautiful forest located in Anuradhapura.",
+        "tags": [
+            "nature",
+            "hiking",
+            "shopping"
+        ],
+        "location": "Ratnapura",
+        "popularity": 10,
+        "best_for": [
+            "history-lovers",
+            "families",
+            "couples"
+        ]
+    },
+    {
+        "id": "97",
+        "name": "Nuwara Eliya Museum",
+        "description": "A beautiful lake located in Trincomalee.",
+        "tags": [
+            "tea",
+            "temple",
+            "safari"
+        ],
+        "location": "Kurunegala",
+        "popularity": 8,
+        "best_for": [
+            "solo",
+            "backpackers",
+            "history-lovers"
+        ]
+    },
+    {
+        "id": "98",
+        "name": "Kurunegala Beach",
+        "description": "A beautiful lake located in Kandy.",
+        "tags": [
+            "tea",
+            "beach",
+            "whales"
+        ],
+        "location": "Trincomalee",
+        "popularity": 8,
+        "best_for": [
+            "couples",
+            "photographers",
+            "adventure"
+        ]
+    },
+    {
+        "id": "99",
+        "name": "Polonnaruwa Park",
+        "description": "A beautiful lake located in Kurunegala.",
+        "tags": [
+            "hiking",
+            "tea",
+            "historical"
+        ],
+        "location": "Colombo",
+        "popularity": 8,
+        "best_for": [
+            "couples",
+            "families",
+            "backpackers"
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Colombo Temple",
+        "description": "A beautiful temple located in Trincomalee.",
+        "tags": [
+            "hiking",
+            "nature",
+            "shopping"
+        ],
+        "location": "Kandy",
+        "popularity": 6,
+        "best_for": [
+            "hikers",
+            "history-lovers",
+            "couples"
+        ]
+    }
+]
